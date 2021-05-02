@@ -1,0 +1,5 @@
+#kean git ignore
+js-dom-projects/
+js-projects/
+node_modules/
+.parcel-cache/

@@ -1,0 +1,30 @@
+{
+  "name": "fork-menu-app",
+  "version": "1.0.0",
+  "description": "Recipe menu application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vizen27/fork-menu-app.git"
+  },
+  "author": "Kean Duque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vizen27/fork-menu-app/issues"
+  },
+  "homepage": "https://github.com/vizen27/fork-menu-app#readme",
+  "dependencies": {
+    "core-js": "3.11.1",
+    "fractional": "1.0.0",
+    "node-sass": "5.0.0",
+    "parcel": "2.0.0-beta.2",
+    "regenerator-runtime": "0.13.7"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.0.0-beta.2"
+  }
+}
